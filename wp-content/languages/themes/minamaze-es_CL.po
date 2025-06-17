@@ -1,0 +1,1433 @@
+# Translation of Themes - Minamaze in Spanish (Chile)
+# This file is distributed under the same license as the Themes - Minamaze package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-15 01:33:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Themes - Minamaze\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Minamaze the free version of the multi-purpose professional theme (Minamaze Pro) ideal for a business or blog website. The theme has a responsive layout, HD retina ready and comes with a powerful theme options panel with can be used to make awesome changes without touching any code. The theme also comes with a full width easy to use slider. Easily add a logo to your site and create a beautiful homepage using the built-in homepage layout."
+msgstr "Minamaze es la versión gratuita del tema profesional polivalente (Minamaze Pro) ideal para un negocio o un sitio web de blog. El tema tiene una disposición adaptable, listo para HD retina y viene con un panel de opciones de tema de gran alcance con puede ser utilizado para hacer cambios impresionantes sin tocar código. El tema también viene con un carrusel de ancho completo y fácil de usar. Agrega fácilmente un logotipo a tu sitio y crea una página de inicio hermosa usando el diseño de página de inicio incorporado."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Minamaze"
+msgstr "Minamaze"
+
+#: admin/main-toolbox/toolbox.php:56 admin/main/options.php:2726
+msgid "thinkup10"
+msgstr "thinkup10"
+
+#: admin/main-toolbox/toolbox.php:55 admin/main/options.php:2725
+msgid "Use coupon at checkout for 10% off."
+msgstr "Utiliza el cupón en la caja para obtener un 10% de descuento."
+
+#: admin/main-toolbox/toolbox.php:54 admin/main/options.php:2724
+msgid "Upgrade Now (10% off)"
+msgstr "Actualiza ahora (10% de descuento)"
+
+#: admin/main-toolbox/toolbox.php:87
+msgid "Using the WordPress Customizer you can easily customize every aspect of the site in seconds with just a few clicks!"
+msgstr "Utilizando el personalizador de WordPress puedes personalizar fácilmente todos los aspectos del sitio en cuestión de segundos, ¡con solo unos pocos clics!"
+
+#: admin/main-toolbox/toolbox.php:78
+msgid "Want more control? Add unlimited featured sections, change button text, disable cropping & more with %1$s Pro!"
+msgstr "¿Quieres más control? Agrega un número ilimitado de secciones destacadas, cambia el texto de los botones, desactiva el recorte, ¡y mucho más con %1$s Pro!"
+
+#: admin/main-toolbox/toolbox.php:78
+msgid "Go to Customizer -> Theme Options -> Homepage (Featured) to start adding content. Add up to 3 sections fast!"
+msgstr "Ve al Personalizador -> Opciones del tema -> Página de Inicio (Destacada) para empezar a agregar contenido. ¡Agrega hasta 3 secciones rápidamente!"
+
+#: admin/main-toolbox/toolbox.php:69
+msgid "Add a slider from Customizer -> Theme Options -> Home and choose Image Slider. Add up to 3 slides quickly!"
+msgstr "Agrega un carrusel desde el Personalizador -> Opciones del tema -> Inicio, y elige Carrusel de imágenes. ¡Agrega hasta 3 diapositivas rápidamente!"
+
+#: admin/main-toolbox/toolbox.php:61
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: admin/main-toolbox/toolbox.php:43
+msgid "Welcome to %1$s!"
+msgstr "¡Bienvenido a %1$s!"
+
+#: admin/main-toolbox/toolbox.php:39
+msgid "Why %1$s (Free)"
+msgstr "Por qué %1$s (gratis)"
+
+#: admin/main-toolbox/toolbox-class.php:182
+#: admin/main-toolbox/toolbox-class.php:183
+msgid "Guide"
+msgstr "Guía"
+
+#: image.php:18
+msgid "in"
+msgstr "en"
+
+#: image.php:18
+msgid "at"
+msgstr "a las"
+
+#: admin/main/options.php:2729
+msgid "We&#39;re glad you asked! Here&#39;s just some of the amazing features you&#39;ll get when you upgrade&hellip;"
+msgstr "¡Nos alegra que hayas preguntado! Aquí están algunas de las increíbles características que obtendrás cuando actualices..."
+
+#: admin/main/options.php:2728
+msgid "So&hellip; Why upgrade?"
+msgstr "Así que... ¿por qué actualizar?"
+
+#: admin/main/options.php:2637
+msgid "Control Single Post Page"
+msgstr "Control de la página de entrada individual"
+
+#: admin/main/options.php:2613
+msgid "Hide article"
+msgstr "Ocultar el artículo"
+
+#: admin/main/options.php:2612
+msgid "Show full article"
+msgstr "Mostrar el artículo completo"
+
+#: admin/main/options.php:2526
+msgid "Control Blog (Archive) Pages"
+msgstr "Control de las páginas (archivo) del blog"
+
+#: admin/main/options.php:2452
+msgid "Input the url to your RSS feed."
+msgstr "Introduce la URL a tu feed RSS."
+
+#: admin/main/options.php:2376
+msgid "Check to use custom YouTube icon"
+msgstr "Márcalo para usar un ícono personalizado de YouTube"
+
+#: admin/main/options.php:2353
+msgid "Input the url to your YouTube page."
+msgstr "Introduce la URL a tu página de YouTube."
+
+#: admin/main/options.php:2277
+msgid "Check to use custom Flickr icon"
+msgstr "Márcalo para usar un ícono personalizado de Flickr"
+
+#: admin/main/options.php:2254
+msgid "Input the url to your Flickr page."
+msgstr "Introduce la URL a tu página de Flickr."
+
+#: admin/main/options.php:2178
+msgid "Check to use custom LinkedIn icon"
+msgstr "Márcalo para usar un ícono personalizado de LinkedIn"
+
+#: admin/main/options.php:2155
+msgid "Input the url to your LinkedIn page."
+msgstr "Introduce la URL a tu página de LinkedIn."
+
+#: admin/main/options.php:2079
+msgid "Check to use custom Google+ icon"
+msgstr "Márcalo para usar un ícono personalizado de Google+"
+
+#: admin/main/options.php:2056
+msgid "Input the url to your Google+ page."
+msgstr "Introduce la URL a tu página de Google+."
+
+#: admin/main/options.php:1980
+msgid "Check to use custom Twitter icon"
+msgstr "Márcalo para usar un ícono personalizado de Twitter"
+
+#: admin/main/options.php:1957
+msgid "Input the url to your Twitter page."
+msgstr "Introduce la URL a tu página de Twitter."
+
+#: admin/main/options.php:1881
+msgid "Check to use custom Facebook icon"
+msgstr "Márcalo para usar un ícono personalizado de Facebook"
+
+#: admin/main/options.php:1880 admin/main/options.php:1979
+#: admin/main/options.php:2078 admin/main/options.php:2177
+#: admin/main/options.php:2276 admin/main/options.php:2375
+#: admin/main/options.php:2474
+msgid "Custom Icon"
+msgstr "Ícono personalizado"
+
+#: admin/main/options.php:1858
+msgid "Input the url to your Facebook page."
+msgstr "Introduce la URL a tu página de Facebook."
+
+#: admin/main/options.php:1806
+msgid "Add a message here. E.g. &#34;Follow Us&#34;.<br />(Only shown in header)"
+msgstr "Agrega aquí un mensaje. Ej. “Síguenos”.<br />(Solo mostrado en la cabecera)"
+
+#: admin/main/options.php:1782
+msgid "Social Media Content"
+msgstr "Contenido de medios sociales"
+
+#: admin/main/options.php:1752
+msgid "Enable Social Media Links (Header)"
+msgstr "Activar los enlaces de medios sociales (cabecera)"
+
+#: admin/main/options.php:1725
+msgid "Social Media Control"
+msgstr "Control de los medios sociales"
+
+#: admin/main/options.php:1625
+msgid "Control Footer Content"
+msgstr "Control del contenido del pie de página"
+
+#: admin/main/options.php:1567
+msgid "Control Header Content"
+msgstr "Control del contenido de la cabecera"
+
+#: admin/main/options.php:1223
+msgid "Display Pre-Designed Homepage"
+msgstr "Mostrar una página de inicio prediseñada"
+
+#: admin/main/options.php:1195
+msgid "Button - Custom link"
+msgstr "Botón - enlace personalizado"
+
+#: admin/main/options.php:1171
+msgid "Button - Link to a page"
+msgstr "Botón - enlace a una página"
+
+#: admin/main/options.php:1147
+msgid "Disable Link"
+msgstr "Desactivar el enlace"
+
+#: admin/main/options.php:1146
+msgid "Specify Custom link"
+msgstr "Especifica un enlace personalizado"
+
+#: admin/main/options.php:1145
+msgid "Link to a Page"
+msgstr "Enlace a una página"
+
+#: admin/main/options.php:1142
+msgid "Button - Link"
+msgstr "Botón - enlace"
+
+#: admin/main/options.php:845
+msgid "Slide 3"
+msgstr "Diapositiva 3"
+
+#: admin/main/options.php:722
+msgid "Slide 2"
+msgstr "Diapositiva 2"
+
+#: admin/main/options.php:627 admin/main/options.php:750
+#: admin/main/options.php:873
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/main/options.php:599
+msgid "Slide 1"
+msgstr "Diapositiva 1"
+
+#: admin/main/options.php:575
+msgid "Image Slider"
+msgstr "Carrusel de imágenes"
+
+#: admin/main/options.php:572
+msgid "Choose Homepage Slider"
+msgstr "Elige el carrusel de la página de inicio"
+
+#: admin/main/options.php:493
+msgid "Select page layout. This will only be applied to static homepages (front page) and not to homepage blogs."
+msgstr "Selecciona el diseño de la página. Esto solo se aplicará a páginas de inicio estáticas (portada) y no a la página de inicio de blogs."
+
+#: admin/main/options.php:465
+msgid "Control Homepage Layout"
+msgstr "Control del diseño de la página de inicio"
+
+#: admin/main/options.php:433
+msgid "Switch on to backup your theme options settings each time the customizer is updated and saved. If enabled then a new page called \"ThinkUp Created Content Backup\" will be created where the option values can be found."
+msgstr "Actívalo para hacer una copia de seguridad de los ajustes de las opciones de tu tema cada vez que el personalizador es actualizado y guardado. Si está activado, se creará una nueva página, llamada “Copia de seguridad del contenido creada por ThinkUp”, donde pueden encontrarse los valores de las opciones."
+
+#: admin/main/options.php:405 admin/main/options.php:432
+msgid "Backup Theme Options"
+msgstr "Opciones de copia de seguridad del tema"
+
+#: admin/main/options.php:324
+msgid "(i.e. Disable responsive layout)"
+msgstr "(Ej. Desactivar el diseño adaptable)"
+
+#: admin/main/options.php:240
+msgid "Page Structure"
+msgstr "Estructura de la página"
+
+#: admin/main/options.php:215
+msgid "Since WordPress v4.5 you can now add a site logo using the native WordPress options. To add a site logo go the \"Site Identitiy\" settings on the main customizer screen."
+msgstr "Desde WordPress v4.5, puedes agregar un logotipo del sitio usando las opciones nativas de WordPress. Para agregar un logotipo al sitio, ve a los ajustes de “Identidad del sitio” en la pantalla principal del personalizador."
+
+#: admin/main/options.php:67
+msgid "View Docs"
+msgstr "Ver la documentación"
+
+#: admin/main/options.php:35
+msgid "Minamaze Pro"
+msgstr "Minamaze Pro"
+
+#: admin/main/options/02.homepage.php:294
+msgid "To add featured content go to Theme Options &#45;&#62; Homepage (Featured) and turn the switch on then add the content you want for each section."
+msgstr "Para agregar contenido destacado, ve a “Opciones del tema -> Página de inicio (destacado)” y activa el conmutador y, después, agrega el contenido que quieres para cada sección."
+
+#: admin/main/options/02.homepage.php:291
+msgid "To add a slider go to Theme Options &#45;&#62; Homepage and choose page slider. The slider will use the page title, excerpt and featured image for the slides."
+msgstr "Para agregar un carrusel, ve a “Opciones del tema -> Página de inicio” y elige la página del carrusel. Para las diapositivas, el carrusel usará el título de la página, el extracto y la imagen destacada."
+
+#: admin/main/options/02.homepage.php:288
+msgid "To begin customizing your site go to Appearance &#45;&#62; Customizer and select Theme Options. Here&#39;s you&#39;ll find custom options to help build your site."
+msgstr "Para empezar a personalizar tu sitio, ve a “Apariencia -> Personalizador” y selecciona “Opciones del tema”. Aquí encontrarás opciones personalizadas para ayudar a construir tu sitio."
+
+#: admin/main/options/02.homepage.php:284
+msgid "Step 3 &#45; Create Homepage"
+msgstr "Paso 3 - Crear la página de inicio"
+
+#: admin/main/options/02.homepage.php:283
+msgid "Step 2 &#45; Setup Slider"
+msgstr "Paso 2 - Configurar el carrusel"
+
+#: admin/main/options/02.homepage.php:282
+msgid "Step 1 &#45; Theme Options"
+msgstr "Paso 1 - Opciones del tema"
+
+#: admin/main/options/02.homepage.php:184
+#: admin/main/options/02.homepage.php:185
+#: admin/main/options/02.homepage.php:186
+msgid "Demo Image"
+msgstr "Imagen de demostración"
+
+#: admin/main/options/02.homepage.php:118
+msgid "Slider Image"
+msgstr "Imagen del carrusel"
+
+#: admin/main/options/04.footer.php:224
+msgid "Theme by %1$s. Powered by %2$s."
+msgstr "Tema de %1$s. Funciona con %2$s."
+
+#: admin/main/options/01.general-settings.php:368
+msgid "You can delete this page any time and regenerate it from within the Minamaze options menu, General section."
+msgstr "Puedes borrar esta página en cualquier momento y regenerarla dentro de la sección “General” del menú de opciones de Minamaze."
+
+#: admin/main/options/01.general-settings.php:367
+msgid "Leave this page as private, available only to users with admin privledges."
+msgstr "Deja esta página como privada, disponible solo para los usuarios con privilegios de administrador."
+
+#: admin/main/options/01.general-settings.php:366
+msgid "Please note the following : "
+msgstr "Por favor, ten en cuenta lo siguiente: "
+
+#: admin/main/options/01.general-settings.php:365
+msgid "When a user switches themes this content will still be available to the user when setting up their site on the new theme."
+msgstr "Cuando un usuario cambie de tema, este contenido seguirá estando disponible para el usuario cuando configure su sitio en el nuevo tema."
+
+#: admin/main/options/01.general-settings.php:364
+msgid "The purpose for the backup is to prevent content loss on theme switch."
+msgstr "El propósito de la copia de seguridad es evitar la pérdida del contenido al cambiar de tema."
+
+#: admin/main/options/01.general-settings.php:362
+msgid "Minamaze Created Content Backup"
+msgstr "Copia de seguridad del contenido creada por Minamaze"
+
+#: functions.php:227
+msgid "Footer Widget Area 6"
+msgstr "Área de widgets 6 del pie de página"
+
+#: functions.php:218
+msgid "Footer Widget Area 5"
+msgstr "Área de widgets 5 del pie de página"
+
+#: functions.php:209
+msgid "Footer Widget Area 4"
+msgstr "Área de widgets 4 del pie de página"
+
+#: functions.php:200
+msgid "Footer Widget Area 3"
+msgstr "Área de widgets 3 del pie de página"
+
+#: functions.php:191
+msgid "Footer Widget Area 2"
+msgstr "Área de widgets 2 del pie de página"
+
+#: functions.php:182
+msgid "Footer Widget Area 1"
+msgstr "Área de widgets 1 del pie de página"
+
+#: functions.php:172
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: comments.php:81
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:76
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:71
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:65
+msgid "Comment"
+msgstr "Comentario"
+
+#: admin/main-toolbox/toolbox.php:301
+msgid "<p>Turn this on to add an author bio to posts. This will displayed above the comments section and provides a bit of details about the author of the post. Author details will be picked up from their user profile.</p><p>To change your author details:</p><ul><li>Go to the WordPress admin area and select Users - > All Users.</li><li>Select the username of the profile you want to edit.</li><li>Next put your author details in the Biographical Info box.</li></ul><p>Any description put in here will be picked up and displayed in the author bio field.</p>"
+msgstr "<p>Activa esto para agregar una biografía del autor a las entradas. Esto se mostrará encima de la sección de comentarios y proporciona algunos detalles sobre el autor de la entrada. Los detalles del autor serán recogidos de su perfil de usuario.</p><p>Para cambiar sus detalles de autor:</p><ul><li>Ir al área de administración de WordPress y selecciona Usuarios - > Todos los usuarios.</li><li>Selecciona el nombre de usuario del perfil que quieres editar.</li><li>Siguiente pon los detalles del autor en el cuadro de Información Biográfica.</li></ul><p>Cualquier descripción puesta aquí será recogida y mostrada en el campo de biografía del autor.</p>"
+
+#: admin/main-toolbox/toolbox.php:299
+msgid "Show Author Bio"
+msgstr "Mostrar biografía del autor"
+
+#: admin/main-toolbox/toolbox.php:289
+msgid "<p>This option can be used to add a sidebar to blog posts. To add a sidebar:</p><ul><li>Select a left sidebar or sidebar layout.</li><li>Choose the sidebar you want display for the chosen layout.</li><li>Go to Appearance -&gt; Widgets in your admin area to add widgets to the selected sidebar.</li><li><strong>Note:</strong> If no sidebar is selected then the default \"Sidebar\" will be used.</li></ul><p>This layout will be applied only to blog posts. This will not be applied to inner pages or blog archive pages. To add a sidebar to inner pages or blog archives to the relevant section.</p>"
+msgstr "<p>Esta opción se puede utilizar para agregar una barra lateral a las entradas del blog. Para agregar una barra lateral:</p><ul><li>Selecciona una barra lateral izquierda o una barra lateral.</li><li>Elige la barra lateral que quieres mostrar para la presentación elegida.</li><li>Ve a Apariencia -&gt; Widgets en su área de administración para agregar widgets a la barra lateral seleccionada.</li><li><strong>Nota:</strong> Si no se selecciona ninguna barra lateral, se utilizará la \"barra lateral\" predeterminada.</li></ul><p>Este diseño se aplicará sólo a las entradas del blog. Esto no se aplicará a las páginas interiores ni a las páginas del archivo del blog. Para agregar una barra lateral a las páginas internas o a los archivos del blog en la sección correspondiente.</p>"
+
+#: admin/main-toolbox/toolbox.php:278
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Create unlimited blog pages.</li><li>Choose your own excerpt length.</li><li>Different layouts for different blogs.</li><li>Plus much more!</li></ul>"
+msgstr "<p>¡Obtén más con %1$s Pro!</p><ul><li>Crea páginas de blog ilimitadas.</li><li>Elige tu propia longitud de extracto.</li><li>Diferentes diseños para diferentes blogs.</li><li>¡Y mucho más!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:276
+msgid ""
+"<p>Choose how much of individual post contents should be displayed.</p><p><strong><i>Show Excerpt:</i></strong></p><ul><li>Choose the Show Excerpt option.</li><li>The first 55 characters fro your posts text will be used.</li></ul><p><strong><i>Show Full Article:</i></strong></p><ul><li>This will show the entire post content on the main blog page.</li><li>This includes all the text, images and anything else that is published on the post.</li><li>Users can manually restrict the amount of content shown by adding the WordPress <more> tag to the post.</li><li>By adding <more> to your posts, only content before this tag will be shown.</li></ul><p><strong><i>Hide Article:</i></strong></p><ul><li>Only the featured image from the post will be displayed</li><li>No text content from the post will be displayed.</li></ul>\n"
+"\t\t\t\t"
+msgstr ""
+"<p>Elige la cantidad de contenido de la entrada individual que se debe mostrar. </p><p><strong><i>Mostrar extracto:</i></strong></p><ul><li>Elige la opción Mostrar extracto.</li><li>Se utilizarán los primeros 55 caracteres del texto de tu entrada.</li></ul><p><strong><i>Mostrar artículo completo:</i></strong></p><ul><li>Esto mostrará todo el contenido de la entrada en la página principal del blog.</li><li>Esto incluye todo el texto, imágenes y cualquier otra cosa que se publique en la entrada.</li><li>Los usuarios pueden restringir manualmente la cantidad de contenido que se muestra agregando la etiqueta WordPress <more> a la entrada.</li><li>Agregando <more> a tus entradas, sólo se mostrará el contenido anterior a esta etiqueta.</li></ul><p><strong><i>Ocultar Artículo:</i></strong></p><ul><li>Sólo se mostrará la imagen destacada de la entrada </li><li>No se mostrará ningún contenido de texto de la entrada</li></ul>.\n"
+"\t\t\t\t"
+
+#: admin/main-toolbox/toolbox.php:264
+msgid "<p>This option can be used to add a sidebar to blog archive pages. To add a sidebar:</p><ul><li>Select a left sidebar or sidebar layout.</li><li>Choose the sidebar you want display for the chosen layout.</li><li>Go to Appearance -&gt; Widgets in your admin area to add widgets to the selected sidebar.</li><li><strong>Note:</strong> If no sidebar is selected then the default \"Sidebar\" will be used.</li></ul><p>This layout will be applied only to blog archive pages. This will not be applied to inner pages or posts. To add a sidebar to inner pages or posts go to the relevant section.</p>"
+msgstr "<p>Esta opción se puede utilizar para agregar una barra lateral a las páginas del archivo del blog. Para agregar una barra lateral:</p><ul><li>Selecciona una barra lateral izquierda o un diseño de barra lateral.</li><li>Elige la barra lateral que quieres mostrar para la presentación elegida.</li><li>Ve a Apariencia -&gt; Widgets en su área de administración para agregar widgets a la barra lateral seleccionada. </li><li><strong>Nota:</strong>Si no se selecciona ninguna barra lateral, se utilizará la \"barra lateral\" predeterminada.</li></ul><p>Este diseño se aplicará sólo a las páginas del archivo del blog. Esto no se aplicará a las páginas interiores ni a las entradas. Para agregar una barra lateral a las páginas interiores o entradas, ve a la sección correspondiente.</p>"
+
+#: admin/main-toolbox/toolbox.php:253
+msgid "<p>Want more?</p><p>With %1$s Pro you can add links to all these profiles in just a few clicks:</p><ul><li>Instagram</li><li>Tumblr</li><li>Pinterest</li><li>Xing</li><li>PayPal</li><li>Vimeo</li><li>Email</li></ul><p>There's more! You can even add your own custom social media profiles in seconds!</p>"
+msgstr "<p>¿Quieres más?</p><p>Con %1$s Pro puedes agregar enlaces a todos estos perfiles en unos pocos clics:</p><ul><li>Instagram</li><li>Tumblr</li><li>Pinterest</li><li>Xing</li><li>PayPal</li><li>Vimeo</li><li>Email</li></ul><p>¡Y hay más! ¡Incluso puedes agregar tus propios perfiles de redes sociales personalizados en cuestión de segundos!</p>"
+
+#: admin/main-toolbox/toolbox.php:252
+msgid "<p>Links to your favorite social media sites can be added to the header area in seconds. Plus each link comes with a nice tooltip showing the name of the social media site when the link is hovered over.</p><p>To enable social media links:</p><ul><li>First switch on the Enable Social Media Links (footer) button.</li><li>Add a display message if you choose.</li><li><strong>Tip:</strong> This can be used to get your users attention and might be something like \"Follow Us\".</li></ul><p>There are 7 different social platforms you can choose to show:</p><ul><li>Facebook</li><li>Twitter</li><li>Google+</li><li>LinkedIn</li><li>Flickr</li><li>YouTube</li><li>RSS</li></ul><p>To display a link to any of these you'll first need to switch on the button for the social platform you want to activate and then also add a link to your profile page.</p>"
+msgstr "<p>Los enlaces a tus sitios de medios sociales favoritos pueden agregarse al área de la cabecera en segundos. Además, cada enlace viene con una bonita información emergente que muestra el nombre del sitio de medios sociales al pasar el cursor por encima del enlace.</p><p>Para activar los enlaces de medios sociales:</p><ul><li>Primero activa el botón (en el pie de página) “Activar los enlaces de medios sociales (cabecera)”.</li><li>Si quieres, agrega un mensaje para mostrar.</li><li><strong>Consejo:</strong>Esto se puede utilizar para llamar la atención de tus usuarios y puede ser algo así como “Síguenos”.</li></ul><p>Hay 7 plataformas sociales diferentes que puedes elegir mostrar:</p><ul><li>Facebook</li><li>Twitter</li><li>Google+</li><li>LinkedIn</li><li>Flickr</li><li>YouTube</li><li>RSS</li></ul><p>Para mostrar un enlace a cualquiera de ellos, primero tienes que activar el botón de la plataforma social que quieres activar y luego agregar un enlace a tu página de perfil.</p>"
+
+#: admin/main-toolbox/toolbox.php:249 admin/main-toolbox/toolbox.php:250
+#: admin/main/options.php:138
+msgid "Social Media"
+msgstr "Redes sociales"
+
+#: admin/main-toolbox/toolbox.php:240
+msgid "<p>Turn this on if you want to disable the main footer area entirely.</p>"
+msgstr "<p>Actívalo si quieres desactivar por completo el área principal del pie de página.</p>"
+
+#: admin/main-toolbox/toolbox.php:229 admin/main-toolbox/toolbox.php:241
+msgid "<p>Want your own copyright message?</p><p>That's right! With %1$s Pro you can change the footer copyright message in seconds straight from the theme options panel!</p>"
+msgstr "<p>¿Quieres tu propio mensaje de copyright? </p><p>¡Eso es! ¡Con %1$s Pro puedes cambiar el mensaje de copyright del pie de página en segundos directamente desde el panel de opciones del tema!</p>"
+
+#: admin/main-toolbox/toolbox.php:228
+msgid "<p>Choose from 18 different footer layouts. Simply select the layout you want and save changes.</p><p>When you have chosen a layout please ensure that widgets are assigned to the footer area. To do this:</p><ul><li>Go to Appearance -> Widgets in your admin area.</li><li>Now simply drag and drop the widgets you want to display into each footer area.</li><li>The footer areas are name \"<i>Footer Widget Area 1</i>\", \"<i>Footer Widget Area 2</i>\", etc...</li></ul>"
+msgstr "<p>Elige entre 18 diseños de pie de página diferentes. Simplemente selecciona el diseño que quieras y guarda los cambios.</p><p>Cuando hayas elegido un diseño, asegúrate de que los widgets están asignados al área de pie de página. Para hacer esto:</p><ul><li>Ve a Apariencia -> Widgets en tu área de administración.</li><li>>Ahora simplemente arrastra y suelta los widgets que quieras mostrar en cada área de pie de página.</li><li>Las nombres de las áreas de pie de página son \"<i>Área 1 de widgets de página</i>\", \"<i>Área 2 de widgets de página</i>\", etc...</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:216
+msgid "<p>Turn this on to add a search box to your website. The search box will display at top of your website.</p>"
+msgstr "<p>Activar esto para agregar una caja de búsqueda a tu sitio Web.La caja de búsqueda se mostrará en la parte superior de tu sitio web.</p>"
+
+#: admin/main-toolbox/toolbox.php:214
+msgid "Enable Search (Pre Header)"
+msgstr "Activar la búsqueda (Preencabezado)"
+
+#: admin/main-toolbox/toolbox.php:205
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited featured sections.</li><li>Add featured sections to inner pages.</li><li>Change \"Read More\" button.</li><li>Add a link to any url.</li><li>Plus much more!</li></ul>"
+msgstr "<p>¡Consigue más con %1$s Pro!</p><ul><li>Secciones destacadas ilimitadas.</li><li>Agregar secciones destacadas a las páginas interiores.</li><li>Cambiar el botón \"Leer más\".</li><li>Agregar un enlace a cualquier URL.</li><li>¡Y mucho más!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:204
+msgid "<p>Add up to 3 featured sections to your homepage. These display only on the homepage at the top of the content area. These can be used to add an icon, title, text and a button to get your visitors attention.</p><p>To add a featured section:</p><ul><li>Go to the <i>\"Homepage (Featured)\"</i> section in the theme options area.</li><li>Turn on the <i>\"Enable Pre-Made Homepage\"</i> switch.</li><li>Choose an icon from the dropdown list.</li><li>Use the <i>\"Title\"</i> field to add a main message to your featured section.</li><li>Use the <i>\"Description\"</i> field to add more information to your featured section.</li><li>Use the <i>\"URL\"</i> field to select a page from your site to link the section.</li><li>A <i>\"Read More\"</i> button will show if the <i>\"URL\"</i> field is set.</li><li>Repeat the above for each additional featured section.</li></ul><p>Don't want a featured section? Simply turn the <i>\"Enable Pre-Made Homepage\"</i> switch off.</p>"
+msgstr "<p>Agrega hasta 3 secciones destacadas a tu página de inicio. Éstas se muestran sólo en la página de inicio en la parte superior del área de contenido. Estas pueden ser usados para agregar un ícono, título, texto y un botón para llamar la atención de tus visitantes.</p><p>Para agregar una sección destacada:</p><ul><li>Ir a la sección <i>\"Homepage (Featured)\"</i> en el área de opciones del tema.</li><li>Activa la opción <i>\"Activar portada profabricada\"</i> switch.</li><li>Selecciona un ícono de la lista desplegable.</li><li>Usa el campo <i>\"Título\"</i>\" para agregar un mensaje principal a tu sección destacada.</li><li>Utilza el campo <i>\"Descripción\"</i> para agregar más información a tu sección destacada. </li><li>Use el campo <i>\"URL\"</i> para seleccionar una página de su sitio para enlazar la sección.</li><li>Se mostrará un botón <i>\"Leer más\"</i> si se rellena el campo <i>\"URL\"</i>.</li><li>Repite el proceso para cada sección destacada.</li></ul><p>¿No quieres una sección destacada? Simplemente desactiva <i>\"Activar portada profabricada\"</i></p>"
+
+#: admin/main-toolbox/toolbox.php:202
+msgid "Pre-Made Homepage<span class=\"hidden\">Icon</span>"
+msgstr "Portada prefabricada<span class=\"hidden\">Ícono</span>"
+
+#: admin/main-toolbox/toolbox.php:193
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited featured sections.</li><li>Add featured sections to inner pages.</li><li>Disable Image cropping.</li><li>Change \"Read More\" button.</li><li>Add a link to any url.</li><li>Plus much more!</li></ul>"
+msgstr "<p>¡Consigue más con %1$s Pro!</p><ul><li>Secciones destacadas ilimitadas.</li><li>Agregar secciones destacadas a las páginas internas.</li><li>Desactivar el recorte de imágenes.</li><li>Cambiar el botón “Leer más”.</li><li>Agregar un enlace a cualquier URL.</li><li>¡Y mucho más!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:192
+msgid "<p>Add up to 3 featured sections to your homepage. These display only on the homepage at the top of the content area. These can be used to add an image, title, text and a button to get your visitors attention.</p><p>To add a featured section:</p><ul><li>Go to the <i>\"Homepage (Featured)\"</i> section in the theme options area.</li><li>Turn on the <i>\"Enable Pre-Made Homepage\"</i> switch.</li><li>Press the <i>\"Select File\"</i> button to choose an image from your media library.</li><li>Use the <i>\"Title\"</i> field to add a main message to your featured section.</li><li>Use the <i>\"Description\"</i> field to add more information to your featured section.</li><li>Use the <i>\"URL\"</i> field to select a page from your site to link the section.</li><li>A <i>\"Read More\"</i> button will show if the <i>\"URL\"</i> field is set.</li><li>Repeat the above for each additional featured section.</li></ul><p>Don't want a featured section? Simply turn the <i>\"Enable Pre-Made Homepage\"</i> switch off.</p>"
+msgstr "<p>Agrega hasta 3 secciones destacadas a tu página de inicio. Éstas se muestran sólo en la página de inicio en la parte superior del área de contenido. Estas pueden ser usadas para agregar una imagen, título, texto y un botón para llamar la atención de tus visitantes.</p><p>Para agregar una sección destacada:</p><ul><li>Ir a la sección <i>\"Portada (destacado)\"</i> en el área de opciones del tema</li><li>Activa la opción <i>\"Activar portada prefabricada\"</i> switch.</li><li>.Pulsa el botón <i>\"Seleccionar archivo\"</i> para elegir una imagen de tu biblioteca multimedia.</li><li>Usa el campo <i>\"Título\"</i> para agregar un mensaje principal a tu sección principal.</li><li>Utilice el campo <i>\"Descripción\"</i> para agregar más información a tu sección destacada. </li><li>Usa el campo <i>\"URL\"</i> para seleccionar una página de su sitio para enlazar la sección.</li><li>Se mostrará un botón <i>\"Leer más\"</i> si se rellena el campo <i>\"URL\"</i>.</li><li>Repite los pasos anteriores para cada sección que quieras agregar.</li></ul><p>¿No quieres una sección destacada? Simplemente desactiva <i>\"Activar portada prefabricada\"</i></p>"
+
+#: admin/main-toolbox/toolbox.php:190
+msgid "Pre-Made Homepage<span class=\"hidden\">Image</span>"
+msgstr "<span class=\"hidden\">Imagen </span> de página de inicio prefabricada"
+
+#: admin/main-toolbox/toolbox.php:181
+msgid "<p>Get more with %1$s Pro!</p><p>Add a call to action to every page of your site, not just the homepage.</p><p>Get your visitors attention on every page!</p>"
+msgstr "<p>¡Consigue con %1$s Pro!</p><p>Agrega una llamada a la acción a cada página de tu sitio, no sólo a la página de inicio.</p><p>¡Consigue la atención de tus visitantes en cada página!</p>"
+
+#: admin/main-toolbox/toolbox.php:180
+msgid "<p>Add a call to action message box at the bottom of content area of the homepage.</p><p>To add the call to action message box do the following:</p><ul><li>Put a tick in the checkbox to enable the message box.</li><li>Add a main message. This will be the header text and wrapped in h3 title tags.</li><li>Add a teaser message to give visitors more information.</li><li>Specify a button message if you want to display a button in the message box.</li><li>Specify whether the button should link to an internal page or external URL.</li><li>If linking to an external URL be sure to add http:// before the URL.</li></ul>"
+msgstr "<p>Agrega una caja de mensaje de llamada a la acción en la parte inferior del área de contenido de la portada</p><p>Para agregar la caja de mensaje de llamada a la acción, haz lo siguiente:</p><ul><li>Pon una marca en la casilla de verificación para activar la caja del mensaje.</li><li>Agrega un mensaje principal. Este será el texto de la cabecera y estará envuelto en etiquetas de título h3.</li><li>Agrega un mensaje de adelanto para dar a los visitantes más información.</li><li>Especifica un botón de mensaje si deseas mostrar un botón en la caja del mensaje.</li><li>Especifica si el botón debe enlazar con una página interna o con una URL externa.</li><li>Si enlazas con una URL externa asegúrate de agregar https:// antes de la URL.</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:178
+msgid "Call To Action - Outro"
+msgstr "Llamada a la acción - Outro"
+
+#: admin/main-toolbox/toolbox.php:168
+msgid "<p>Add a call to action message box at the top of content area of the homepage.</p><p>To add the call to action message box do the following:</p><ul><li>Put a tick in the checkbox to enable the message box.</li><li>Add a main message. This will be the header text and wrapped in h3 title tags.</li><li>Add a teaser message to give visitors more information.</li><li>Specify a button message if you want to display a button in the message box.</li><li>Specify whether the button should link to an internal page or external URL.</li><li>If linking to an external URL be sure to add http:// before the URL.</li></ul>"
+msgstr "<p>Agrega una caja de mensaje de llamada a la acción en la parte superior del área de contenido de la portada</p><p>Para agregar la caja de mensaje de llamada a la acción, haz lo siguiente:</p><ul><li>Pon una marca en la casilla de verificación para activar la caja de mensajes.</li><li>Agrega un mensaje principal. Este será el texto de la cabecera y estará envuelto en etiquetas de título h3.</li><li>Agrega un mensaje de adelanto para dar a los visitantes más información.</li><li>Especifica un botón de mensaje si desea mostrar un botón en la caja del mensaje.</li><li>Especifica si el botón debe enlazar con una página interna o con una URL externa.</li><li>Si enlazas con una URL externa asegúrate de agregar https:// antes de la URL.</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:166 admin/main/options.php:1024
+msgid "Call To Action - Intro"
+msgstr "Llamada a la acción - Introducción"
+
+#: admin/main-toolbox/toolbox.php:157
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited slides.</li><li>Sliders for inner pages.</li><li>Video sliders.</li><li>Change <i>\"Read More\"</i> button.</li><li>Image only slides (no button).</li><li>Control transition speed.</li><li>Plus much more!</li></ul>"
+msgstr "<p>¡Consigue más con %1$s Pro!</p><ul><li>Diapositivas ilimitadas.</li><li>Carruseles en páginas interiores.</li><li>Carruseles de video.</li><li>Cambiar el botón <i>\"Leer más\"</i>.</li><li>Diapositivas solo con imagen (sin botón).</li><li>Controlar la velocidad de transición.</li><li>¡Y mucho más! </li></ul>"
+
+#: admin/main-toolbox/toolbox.php:156
+msgid "<p>%1$s comes with a image slider which can be used to add slideshow to the top of your homepage.</p><p>To use the image slider:</p><ul><li>Select the <i>\"Image Slider\"</i> from the Choose Home Slider options.</li><li>Expand the toggle box and select an image from your media library.</li><li>Use the \"Title\" field to add a main message to your slide.</li><li>Use the <i>\"Description\"</i> field to add additional information to your slide.</li><li>Use the <i>\"URL\"</i> field to select a page from your site to link the slide.</li><li>The slider will display a <i>\"Read More\"</i> button if the <i>\"URL\"</i> field is set.</li><li>Repeat the above for each additional slide you want to add.</li></ul><p>Don't want a slider? To disable the slider entirely simply press the <i>\"Disable\"</i> option.</p>"
+msgstr "<p>%1$s viene con un carrusel de imagen que puede ser usado para agregar una presentación de diapositivas en la parte superior de tu página de inicio.</p><p>Para usar el carrusel de imagen:</p><ul><li>Selecciona el <i>\"Carrusel de imagen\"</i> desde las opciones de Elegir Control deslizante de Imagen.</li><li>Expande la caja de conmutación y selecciona una imagen de tu biblioteca de medios.</li><li>Usa el campo \"Título\" para agregar un mensaje principal a su diapositiva.</li><li>Use el campo <i>\"Descripción\"</i>\" para agregar información adicional a tu diapositiva. </li><li>Usa el campo <i>\"URL\"</i> para seleccionar una página de su sitio para vincular la diapositiva.</li><li>El carrusel mostrará un botón <i>\"Read More\"</i> si el campo <i>\"URL\"</i> está configurado.</li><li>Repite lo anterior para cada diapositiva adicional que quieras agregar.</li></ul><p>¿No quieres un carrusel? Para desactivar el carrusel simplemente presione la opción <i>\"Desactivar\"</i></p>."
+
+#: admin/main-toolbox/toolbox.php:154 admin/main/options.php:548
+msgid "Homepage Slider"
+msgstr "Carrusel de la página de inicio"
+
+#: admin/main-toolbox/toolbox.php:144
+msgid "<p>This option can be used to add a sidebar to the homepage on your site. To add a sidebar:</p><ul><li>Select a left sidebar or sidebar layout.</li><li>Choose the sidebar you want display for the chosen layout.</li><li>Go to Appearance -&gt; Widgets in your admin area to add widgets to the selected sidebar.</li><li><strong>Note:</strong> If no sidebar is selected then the default \"Sidebar\" will be used.</li></ul><p>This layout will be applied only to the homepage on your website. This will not be applied to inner pages or blog posts. To add a sidebar to inner pages or blog posts go to the relevant section.</p>"
+msgstr "<p>Esta opción se puede utilizar para agregar una barra lateral a la página principal de tu sitio. Para agregar una barra lateral:</p><ul><li>Seleccione una barra lateral izquierda o una barra lateral.</li><li>Elige la barra lateral que quieres mostrar para la presentación elegida.</li><li>Ve a Apariencia -&gt; Widgets en su área de administración para agregar widgets a la barra lateral seleccionada.</li><li><strong>Nota:</strong>Si no se selecciona ninguna barra lateral, se utilizará la \"barra lateral\" predeterminada.</li></ul><p>Este diseño se aplicará sólo a la página principal de tu web. Esto no se aplicará a las páginas interiores ni a las entradas del blog. Para agregar una barra lateral a las páginas interiores o entradas de blog, vaya a la sección correspondiente.</p>"
+
+#: admin/main-toolbox/toolbox.php:132
+msgid "<p>Turn on to display site wide breadcrumbs. These are displayed at the top of each page and show the parent pages of the current page being viewed.</p><p>By default a forward slash (/) will be used to separate pages in the breadcrumb. If you prefer to use a different separator you can specify this using the delimiter input field.</p>"
+msgstr "<p>Activar para mostrar la miga de pan en todo el sitio. Estos se muestran en la parte superior de cada página y muestran las páginas principal de la página actual que se está viendo.</p> <p> De forma predeterminada se utilizará una barra diagonal (/) para separar las páginas de la miga de pan. Si prefieres utilizar un separador diferente, puedes especificarlo utilizando el campo de entrada delimitador.</p>"
+
+#: admin/main-toolbox/toolbox.php:121
+msgid "<p>Get more with %1$s Pro!</p><p>Create beautiful responsive content without coding. Use our amazing drag & drop page builder and build websites with ease.</p><p>Look great on every device!</p>"
+msgstr "<p>¡Consigue más con %1$s Pro!</p><p>Cree un hermoso contenido adaptable sin necesidad de programar. Utilice nuestro increíble creador de páginas de arrastrar y soltar y construye sitios web con facilidad.</p><p>¡Se ve bien en todos los dispositivos!</p>"
+
+#: admin/main-toolbox/toolbox.php:120
+msgid "<p>By default your website will be responsive. If you would like to disable this simply turn this switch on.</p><p>The responsive trigger widths are:</p><ul><li><span style=\"width: 50px;display: inline-block;\">1140px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> Desktops and laptop screens.</li><li><span style=\"width: 50px;display: inline-block;\">768px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPad and tablets.</li><li><span style=\"width: 50px;display: inline-block;\">640px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> Small tablets and larger phones.</li><li><span style=\"width: 50px;display: inline-block;\">560px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone 5 (Landscape).</li><li><span style=\"width: 50px;display: inline-block;\">480px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone 4 or before (Landscape).</li><li><span style=\"width: 50px;display: inline-block;\">320px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone (Portrait).</li></ul>"
+msgstr "<p>Tu sitio es adaptable por defecto. Si no quieres que lo sea, simplemente desactiva este conmutador.</p><p>Los puntos de corte son:</p><ul><li><span style=\"width: 50px;display: inline-block;\">1140px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> Sobremesas y portátiles.</li><li><span style=\"width: 50px;display: inline-block;\">768px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPad y tabletas.</li><li><span style=\"width: 50px;display: inline-block;\">640px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> Tabletas pequeñas y teléfonos grandes.</li><li><span style=\"width: 50px;display: inline-block;\">560px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone 5 (Apaisado).</li><li><span style=\"width: 50px;display: inline-block;\">480px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone 4 o anterior (Apaisado).</li><li><span style=\"width: 50px;display: inline-block;\">320px</span> <span style=\"width: 15px;display: inline-block;\">&#8211;</span> iPhone (Retrato).</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:109 admin/main-toolbox/toolbox.php:145
+#: admin/main-toolbox/toolbox.php:265 admin/main-toolbox/toolbox.php:290
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Create unlimited sidebars.</li><li>Add a different sidebar to different pages.</li><li>Add sidebar layouts to specific pages only.</li><li>Plus much more!</li></ul>"
+msgstr "<p>¡Consigue con %1$s Pro!</p><ul><li>Crea barras laterales ilimitadas.</li><li>Agrega una barra lateral diferente a páginas diferentes.</li><li>Agrega diseños de barra lateral a páginas específicas solamente.</li><li>¡Y mucho más!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:108
+msgid "<p>This option can be used to add a sidebar to all pages on your site. To add a sidebar:</p><ul><li>Select a left sidebar or sidebar layout.</li><li>Choose the sidebar you want display for the chosen layout.</li><li>Go to Appearance -&gt; Widgets in your admin area to add widgets to the selected sidebar.</li><li><strong>Note:</strong> If no sidebar is selected then the default \"Sidebar\" will be used.</li></ul><p>This layout will be applied to all pages published on your website. This will not be applied to the homepage or blog posts. To add a sidebar to the homepage or blog posts go to the relevant section.</p>"
+msgstr "<p>Esta opción se puede utilizar para agregar una barra lateral a todas las páginas de tu sitio. Para agregar una barra lateral:</p><ul><li>Seleccione una barra lateral izquierda o una barra lateral.</li><li>Elige la barra lateral que quieres mostrar para la presentación elegida.</li><li>Vaya a Apariencia -&gt; Widgets en su área de administración para agregar widgets a la barra lateral seleccionada.</li><li><strong>Nota:</strong>Si no se selecciona ninguna barra lateral, se utilizará la \"barra lateral\" predeterminada.</li></ul><p>Este diseño se aplicará a todas las páginas publicadas en su sitio web. Esto no se aplicará a la página principal ni a las entradas del blog. Para agregar una barra lateral a la página principal o a las entradas del blog, vaya a la sección correspondiente.</p>"
+
+#: admin/main-toolbox/toolbox.php:100
+msgid "<p>The documentation below will have the same title as the corresponding option in the customizer theme options area.<br />To find what you're looking for simply expand the toggle by clicking on it below.</p><p><strong><i>Get Started:</i></strong> You can find all of the theme specific options in the customizer under the Theme Options tab.</p>"
+msgstr "<p>La documentación que se muestra a continuación tendrá el mismo título que la opción correspondiente en el área de opciones del tema del personalizador. <br />Para encontrar lo que buscas, simplemente haz clic en ella para expandirla. </p><p><strong><i>Para empezar:</i></strong> Puedes encontrar todas las opciones específicas del tema en la pestaña Opciones del tema.</p>"
+
+#: admin/main-toolbox/toolbox.php:99
+msgid "How to find what you're looking for."
+msgstr "Cómo encontrar lo que buscas."
+
+#: admin/main-toolbox/toolbox.php:98
+msgid "Intro"
+msgstr "Introducción"
+
+#: admin/main-toolbox/toolbox.php:62 admin/main/options.php:65
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/main-toolbox/toolbox.php:537
+msgid "No credit footer link"
+msgstr "Sin enlace de créditos en el pie de página"
+
+#: admin/main-toolbox/toolbox.php:519
+msgid "Extended Layout Options"
+msgstr "Opciones de diseño ampliadas"
+
+#: admin/main-toolbox/toolbox.php:510
+msgid "Animation Effects"
+msgstr "Efectos de Animación"
+
+#: admin/main-toolbox/toolbox.php:501
+msgid "Parallax Effects"
+msgstr "Efectos de paralaje"
+
+#: admin/main-toolbox/toolbox.php:492
+msgid "Custom Widgets"
+msgstr "Widgets personalizados"
+
+#: admin/main-toolbox/toolbox.php:483
+msgid "Google Map Section"
+msgstr "Sección mapa de Google"
+
+#: admin/main-toolbox/toolbox.php:474
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: admin/main-toolbox/toolbox.php:465
+msgid "Video Sliders"
+msgstr "Carrusel de Vimeo"
+
+#: admin/main-toolbox/toolbox.php:456
+msgid "Unlimited Sliders"
+msgstr "Carruseles ilimitados"
+
+#: admin/main-toolbox/toolbox.php:447
+msgid "ThinkUpSlider"
+msgstr "ThinkUpSlider"
+
+#: admin/main-toolbox/toolbox.php:438
+msgid "150+ Shortcodes"
+msgstr "150+ Shortcodes"
+
+#: admin/main-toolbox/toolbox.php:429
+msgid "600+ Google Fonts"
+msgstr "Más de 600 fuentes de Google"
+
+#: admin/main-toolbox/toolbox.php:420
+msgid "Unlimited Color Options"
+msgstr "Opciones de color ilimitadas"
+
+#: admin/main-toolbox/toolbox.php:411
+msgid "Theme Options Panel"
+msgstr "Panel de opciones del tema"
+
+#: admin/main-toolbox/toolbox.php:402
+msgid "Page Builder"
+msgstr "Constructor de páginas"
+
+#: admin/main-toolbox/toolbox.php:393
+msgid "Advanced Theme Options"
+msgstr "Opciones avanzadas del tema"
+
+#: admin/main-toolbox/toolbox.php:384
+msgid "Built-In Social Buttons"
+msgstr "Botones sociales incorporados"
+
+#: admin/main-toolbox/toolbox.php:375
+msgid "Fontpage Slides"
+msgstr "Diapositivas de portada"
+
+#: admin/main-toolbox/toolbox.php:366
+msgid "Fontpage Sections"
+msgstr "Secciones de portada"
+
+#: admin/main-toolbox/toolbox.php:357
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: admin/main-toolbox/toolbox.php:348
+msgid "Mobile Friendly"
+msgstr "Preparado para dispositivos móviles"
+
+#: admin/main-toolbox/toolbox.php:345
+msgid "Get %s Now!"
+msgstr "¡Consigue %s!"
+
+#: admin/main-toolbox/toolbox.php:110 admin/main-toolbox/toolbox.php:122
+#: admin/main-toolbox/toolbox.php:134 admin/main-toolbox/toolbox.php:146
+#: admin/main-toolbox/toolbox.php:158 admin/main-toolbox/toolbox.php:170
+#: admin/main-toolbox/toolbox.php:182 admin/main-toolbox/toolbox.php:194
+#: admin/main-toolbox/toolbox.php:206 admin/main-toolbox/toolbox.php:218
+#: admin/main-toolbox/toolbox.php:230 admin/main-toolbox/toolbox.php:242
+#: admin/main-toolbox/toolbox.php:254 admin/main-toolbox/toolbox.php:266
+#: admin/main-toolbox/toolbox.php:279 admin/main-toolbox/toolbox.php:291
+#: admin/main-toolbox/toolbox.php:303 admin/main-toolbox/toolbox.php:334
+msgid "Get %1$s Pro"
+msgstr "Consigue %1$s Pro"
+
+#: admin/main-toolbox/toolbox.php:333
+msgid "Get VIP access to the knowledge base, personal ticket support and much more so you can make the most out of %1$s!"
+msgstr "¡Obtén acceso VIP a la base de conocimientos, soporte personal por tickets y mucho más para que puedas sacar el máximo provecho de %1$s!"
+
+#: admin/main-toolbox/toolbox.php:333
+msgid "Get support from the brains behind %1$s. Upgrade to %1$s Pro and you'll get help straight from the theme developers!"
+msgstr "Obtén soporte de los cerebros detrás de %1$s. ¡Mejora a %1$s Pro y obtendrás ayuda directamente de los desarrolladores del tema!"
+
+#: admin/main-toolbox/toolbox.php:331 admin/main-toolbox/toolbox.php:528
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: admin/main-toolbox/toolbox.php:324
+msgid "Want to know what's been happing with the latest changes? Take a look at the changelog. Your can find this in the themes readme.txt file."
+msgstr "¿Quieres saber qué ha estado pasando con los últimos cambios? Echa un vistazo al registro de cambios. Puedes encontrar esto en el archivo readme.txt del tema."
+
+#: admin/main-toolbox/toolbox.php:322
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: admin/main-toolbox/toolbox.php:316
+msgid "Contact Free Support"
+msgstr "Contacta con el soporte gratuito"
+
+#: admin/main-toolbox/toolbox.php:315
+msgid "Get free support from the amazing volunteers over at the wordpress forums. This support is provided by volunteers not Think Up Themes staff."
+msgstr "Obtén soporte gratuito de los increíbles voluntarios en los foros de WordPress. Este soporte es proporcionado por voluntarios y no por el personal de Think Up Themes."
+
+#: admin/main-toolbox/toolbox.php:313
+msgid "Free Support"
+msgstr "Soporte gratuito"
+
+#: admin/main-toolbox/toolbox.php:86 admin/main-toolbox/toolbox.php:88
+msgid "Go to Customizer"
+msgstr "Ir al Personalizador"
+
+#: admin/main-toolbox/toolbox.php:77
+msgid "Setup Homepage"
+msgstr "Configurar página de inicio"
+
+#: admin/main-toolbox/toolbox.php:70 admin/main-toolbox/toolbox.php:79
+msgid "View %1$s Pro"
+msgstr "Ver %1$s Pro"
+
+#: admin/main-toolbox/toolbox.php:69
+msgid "Want more slides? With %1$s Pro you can add as many slides as you want! Plus add video slides and much more!"
+msgstr "¿Quieres más diapositivas? ¡Con %1$s Pro puedes agregar tantas diapositivas como quieras! ¡Además, agrega diapositivas de video y mucho más!"
+
+#: admin/main-toolbox/toolbox.php:68
+msgid "Setup Slideshow"
+msgstr "Configurar carrusel"
+
+#: admin/main-toolbox/toolbox.php:60
+msgid "Free VS PRO"
+msgstr "Gratis vs PRO"
+
+#: admin/main-toolbox/toolbox-class.php:211
+#: admin/main-toolbox/toolbox-class.php:212 admin/main-toolbox/toolbox.php:57
+#: admin/main/options.php:37 admin/main/options.php:2727
+msgid "Upgrade Now"
+msgstr "Mejora ahora"
+
+#: admin/main-toolbox/toolbox.php:45
+msgid "%1$s is a free multi-purpose WordPress theme. It's fully responsive and perfect for any type of website, it's great web agency businesses, corporate websites , personal, blogs, photography and everything in between! Create a stunning homepage with featured homepage sections and a beautiful slideshow in seconds."
+msgstr "%1$s es un tema gratuito de WordPress multi-propósito. ¡Es completamente adaptable y perfecto para cualquier tipo de sitio web, Es fantástico para webs de agencias, sitios web corporativos, personales, blogs, de fotografía y todos los demás tipos de webs entre ellos. Crea una página de inicio impresionante con secciones de portada y una hermosa presentación de diapositivas en segundos."
+
+#: admin/main-toolbox/toolbox.php:41
+msgid "About %1$s (Free)"
+msgstr "Acerca de %1$s (Gratis)"
+
+#: admin/main-toolbox/toolbox-class.php:638
+msgid "You do not have the necessary permission to perform this action."
+msgstr "No tiene el permiso necesario para realizar esta acción."
+
+#: admin/main-toolbox/toolbox-class.php:635
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Error en la acción. Por favor, recarga la página y vuelve a intentarlo."
+
+#: admin/main-toolbox/toolbox-class.php:256
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: admin/main/options/00.theme-setup.php:266
+msgid "Quarter - 2:3"
+msgstr "Cuarto - 2:3"
+
+#: admin/main/options/00.theme-setup.php:265
+msgid "Quarter - 1:2"
+msgstr "Cuarto - 1:2"
+
+#: admin/main/options/00.theme-setup.php:264
+msgid "Quarter - 1:1"
+msgstr "Cuarto - 1:1"
+
+#: admin/main/options/00.theme-setup.php:261
+msgid "Third - 2:3"
+msgstr "Tercio - 2:3"
+
+#: admin/main/options/00.theme-setup.php:260
+msgid "Third - 1:3"
+msgstr "Tercio - 1:3"
+
+#: admin/main/options/00.theme-setup.php:259
+msgid "Third - 1:2"
+msgstr "Tercio - 1:2"
+
+#: admin/main/options/00.theme-setup.php:258
+msgid "Third - 1:1"
+msgstr "Tercio - 1:1"
+
+#: admin/main/options/00.theme-setup.php:255
+msgid "Half - 3:5"
+msgstr "Mitad - 3:5"
+
+#: admin/main/options/00.theme-setup.php:254
+msgid "Half - 2:3"
+msgstr "Mitad - 2:3"
+
+#: admin/main/options/00.theme-setup.php:253
+msgid "Half - 1:2"
+msgstr "Mitad - 1:2"
+
+#: admin/main/options/00.theme-setup.php:252
+msgid "Half - 1:1"
+msgstr "Mitad - 1:1"
+
+#: admin/main/options/00.theme-setup.php:249
+msgid "Full - 2:5"
+msgstr "Completo - 2:5"
+
+#: admin/main/options/00.theme-setup.php:248
+msgid "Full - 1:4"
+msgstr "Completo - 1:4"
+
+#: admin/main/options/00.theme-setup.php:247
+msgid "Full - 2:3"
+msgstr "Completo - 2:3"
+
+#: admin/main/options/00.theme-setup.php:246
+msgid "Full - 1:3"
+msgstr "Completo - 1:3"
+
+#: admin/main/options/00.theme-setup.php:103
+msgid "Home"
+msgstr "Página de Inicio"
+
+#: 404.php:12
+msgid "Oops!"
+msgstr "¡Ups!"
+
+#: functions.php:84
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:83
+msgid "Primary Header Menu"
+msgstr "Menú del Encabezado Principal"
+
+#: functions.php:82
+msgid "Pre Header Menu"
+msgstr "Menú pre-cabecera"
+
+#: admin/main-toolbox/toolbox.php:189 admin/main-toolbox/toolbox.php:201
+#: admin/main/options.php:108
+msgid "Homepage (Featured)"
+msgstr "Página de inicio (Destacada)"
+
+#: comments.php:61
+msgid "Leave A Reply"
+msgstr "Deja tu comentario"
+
+#: comments.php:60
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: admin/main/options.php:79
+msgid "Use the options below to customize your theme!"
+msgstr "¡Usa las siguientes opciones para personalizar tu tema!"
+
+#: admin/main/options.php:327 admin/main/options.php:357
+#: admin/main/options.php:436 admin/main/options.php:974
+#: admin/main/options.php:1254 admin/main/options.php:1596
+#: admin/main/options.php:1756 admin/main/options.php:1834
+#: admin/main/options.php:1933 admin/main/options.php:2032
+#: admin/main/options.php:2131 admin/main/options.php:2230
+#: admin/main/options.php:2329 admin/main/options.php:2428
+msgid "Off"
+msgstr "Parado"
+
+#: admin/main/options.php:326 admin/main/options.php:356
+#: admin/main/options.php:435 admin/main/options.php:973
+#: admin/main/options.php:1253 admin/main/options.php:1595
+#: admin/main/options.php:1755 admin/main/options.php:1833
+#: admin/main/options.php:1932 admin/main/options.php:2031
+#: admin/main/options.php:2130 admin/main/options.php:2229
+#: admin/main/options.php:2328 admin/main/options.php:2427
+msgid "On"
+msgstr "Activo"
+
+#: admin/main/options.php:700 admin/main/options.php:823
+#: admin/main/options.php:946
+msgid "URL"
+msgstr "URL"
+
+#: admin/main/options.php:676 admin/main/options.php:799
+#: admin/main/options.php:922
+msgid "Description"
+msgstr "Descripcion"
+
+#: admin/main/options.php:576
+msgid "Disable"
+msgstr "Desactivar Moderación"
+
+#: admin/main/options/04.footer.php:19 admin/main/options/04.footer.php:32
+#: admin/main/options/04.footer.php:45 admin/main/options/04.footer.php:58
+#: admin/main/options/04.footer.php:71 admin/main/options/04.footer.php:84
+#: sidebar.php:19
+msgid "No Widgets Selected"
+msgstr "No hay widgets seleccionados"
+
+#: sidebar.php:18
+msgid "Remove this message by adding widgets to the Sidebar from the Widgets section of the WordPress admin area."
+msgstr "Elimina este mensaje agregando widgets a la barra lateral desde la sección de widgets del área de administración de WordPress."
+
+#: searchform.php:9 searchform.php:10
+msgid "Search"
+msgstr "Buscar"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que buscas. Quizas buscar podría ayudar."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no encontramos resultados con tus términos de búsqueda. Por favor inténtalo nuevamente con otras palabras."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Comienza aquí</a>."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "No se encontró"
+
+#: admin/main/options.php:2611
+msgid "Show excerpt"
+msgstr "Mostrar fragmento"
+
+#: admin/main/options.php:652 admin/main/options.php:775
+#: admin/main/options.php:898
+msgid "Title"
+msgstr "T&iacute;tulo"
+
+#: lib/functions/template-tags.php:66
+msgid "Previous"
+msgstr "Anterior"
+
+#: lib/functions/template-tags.php:44
+msgid "Newer posts"
+msgstr "Entradas recientes"
+
+#: lib/functions/template-tags.php:40
+msgid "Older posts"
+msgstr "Entradas anteriores"
+
+#: admin/main/options/05.blog.php:167 admin/main/options/05.blog.php:171
+#: content-page.php:12 content-single.php:15 content.php:29 image.php:71
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: image.php:18
+msgid "Return to "
+msgstr "Volver a "
+
+#: image.php:18
+msgid "Link to full-size image"
+msgstr "Enlace a la imagen en tamaño completo"
+
+#: image.php:18
+msgid "Published "
+msgstr "Publicado"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: comments.php:27 comments.php:38
+msgid "Newer Comments"
+msgstr "Comentarios recientes"
+
+#: comments.php:26 comments.php:37
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:20
+msgid "%1$s comment %2$s"
+msgid_plural "%1$s comments %2$s"
+msgstr[0] "%1$s comentario %2$s"
+msgstr[1] "%1$s comentarios %2$s"
+
+#: admin/main/options.php:158
+msgid "Upgrade (10% off)"
+msgstr "Mejorar (10% de descuento)"
+
+#: admin/main-toolbox/toolbox.php:63
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/main/options.php:2663
+msgid "Select blog page layout. This will only be applied to individual posts and not the main blog page."
+msgstr "Selecciona el diseño de la página del blog. Esto sólo se aplicará a las entradas individuales y no a la página principal del blog."
+
+#: admin/main-toolbox/toolbox.php:287 admin/main/options.php:2662
+msgid "Post Layout"
+msgstr "Diseño de publicación"
+
+#: admin/main/options.php:2609
+msgid "Control how much content you want to show from each post on the main blog page. Remember to control the full article content by using the WordPress <a href=\"http://en.support.wordpress.com/splitting-content/more-tag/\">more</a> tag in your post."
+msgstr "Controla la cantidad de contenido que quieres mostrar de cada entrada en la página principal del blog. Recuerda controlar el contenido completo del artículo usando la etiqueta <a href=\"http://en.support.wordpress.com/splitting-content/more-tag/\">más</a> de WordPress en tu entrada."
+
+#: admin/main-toolbox/toolbox.php:274 admin/main/options.php:2608
+msgid "Post Content"
+msgstr "Contenido de la entrada"
+
+#: admin/main/options.php:2584
+msgid "Note: Sidebars will not be applied to homepage Blog. Control sidebars on the homepage from the &#39;Home Settings&#39; option."
+msgstr "Nota: No se aplicarán barras laterales al blog de la página principal. Controla las barras laterales en la página principal desde la opción &#39;Ajustes de portada&#39;."
+
+#: admin/main/options.php:2554
+msgid "Select blog page layout. Only applied to the main blog page and not individual posts."
+msgstr "Selecciona el diseño de la página del blog. Sólo se aplica a la página principal del blog y no a entradas individuales."
+
+#: admin/main-toolbox/toolbox.php:262 admin/main/options.php:2553
+msgid "Blog Layout"
+msgstr "Disposición de Blog"
+
+#: admin/main/options.php:1698
+msgid "Check to disable footer widgets."
+msgstr "Márcalo para desactivar los widgets de pie de página."
+
+#: admin/main-toolbox/toolbox.php:238 admin/main/options.php:1697
+msgid "Disable Footer Widgets"
+msgstr "Desactivar widgets del pie de página"
+
+#: admin/main/options.php:1653
+msgid "Select footer layout. Take complete control of the footer content by adding widgets."
+msgstr "Selecciona la disposición del pie de página. Toma el control total del contenido del pie de página agregando widgets."
+
+#: admin/main-toolbox/toolbox.php:226 admin/main/options.php:1652
+msgid "Footer Widgets Layout"
+msgstr "Diseño de widgets del pie de página"
+
+#: admin/main-toolbox/toolbox.php:225 admin/main-toolbox/toolbox.php:237
+#: admin/main/options.php:128
+msgid "Footer"
+msgstr "Pie de página"
+
+#: admin/main/options.php:2475
+msgid "Use Custom RSS Icon"
+msgstr "Usar el ícono RSS personalizado"
+
+#: admin/main/options.php:2425
+msgid "Enable link to RSS profile."
+msgstr "Activar el enlace al perfil RSS."
+
+#: admin/main/options.php:2424 admin/main/options/03.header.php:347
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/main/options.php:2326
+msgid "Enable link to YouTube profile."
+msgstr "Activar el enlace al perfil de YouTube."
+
+#: admin/main/options.php:2325 admin/main/options/03.header.php:340
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/main/options.php:2227
+msgid "Enable link to Flickr profile."
+msgstr "Activar el enlace al perfil de Flickr."
+
+#: admin/main/options.php:2226 admin/main/options/03.header.php:333
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/main/options.php:2128
+msgid "Enable link to LinkedIn profile."
+msgstr "Activar el enlace al perfil de LinkedIn."
+
+#: admin/main/options.php:2127 admin/main/options/03.header.php:326
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/main/options.php:2029
+msgid "Enable link to Google+ profile."
+msgstr "Activar el enlace al perfil de Google+."
+
+#: admin/main/options.php:2028 admin/main/options/03.header.php:319
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/main/options.php:1930
+msgid "Enable link to Twitter profile."
+msgstr "Activar el enlace al perfil de Twitter."
+
+#: admin/main/options.php:1929 admin/main/options/03.header.php:312
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/main/options.php:1904 admin/main/options.php:2003
+#: admin/main/options.php:2102 admin/main/options.php:2201
+#: admin/main/options.php:2300 admin/main/options.php:2399
+#: admin/main/options.php:2498
+msgid "Add a link to the image or upload one from your desktop. The image will be resized."
+msgstr "Agrega un enlace a la imagen o súbela desde su escritorio. La imagen será redimensionada."
+
+#: admin/main/options.php:1831
+msgid "Enable link to Facebook profile."
+msgstr "Activar el enlace al perfil de Facebook."
+
+#: admin/main/options.php:1830 admin/main/options/03.header.php:305
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/main/options.php:1753
+msgid "Switch on to enable links to social media pages."
+msgstr "Actívalo para activar los enlaces a las páginas de medios sociales."
+
+#: admin/main/options.php:1593
+msgid "Switch on to enable header search."
+msgstr "Actívalo para activar la búsqueda de encabezado."
+
+#: admin/main/options.php:1592
+msgid "Enable Search"
+msgstr "Activar la búsqueda"
+
+#: admin/main-toolbox/toolbox.php:213 admin/main/options.php:118
+msgid "Header"
+msgstr "Cabecera"
+
+#: admin/main/options.php:1516
+msgid "Add some text to featured section 3."
+msgstr "Agrega texto a la sección destacada 3."
+
+#: admin/main/options.php:1468
+msgid "Content Area 3"
+msgstr "Área de contenido 3"
+
+#: admin/main/options.php:1422
+msgid "Add some text to featured section 2."
+msgstr "Agrega texto a la sección destacada 2."
+
+#: admin/main/options.php:1374
+msgid "Content Area 2"
+msgstr "Área de contenido 2"
+
+#: admin/main/options.php:1328
+msgid "Add some text to featured section 1."
+msgstr "Agrega texto a la sección destacada 1."
+
+#: admin/main/options.php:1305 admin/main/options.php:1399
+#: admin/main/options.php:1493
+msgid "Add a title to the section."
+msgstr "Agrega un título a la sección."
+
+#: admin/main/options.php:1281 admin/main/options.php:1375
+#: admin/main/options.php:1469
+msgid "Add an image for the section background."
+msgstr "Agrega una imagen para el fondo de la sección."
+
+#: admin/main/options.php:1280
+msgid "Content Area 1"
+msgstr "Área de contenido 1"
+
+#: admin/main/options.php:1251
+msgid "switch on to enable pre-designed homepage layout."
+msgstr "actívalo para activar el diseño predefinido de la página de inicio."
+
+#: admin/main/options.php:1196
+msgid "Input a custom url for the action button link. Add http:// if linking to an external webpage."
+msgstr "Introduce una url personalizada para el enlace del botón de acción. Agrega http:// si se está enlazando a una página web externa."
+
+#: admin/main/options.php:1172
+msgid "Select a target page for action button link."
+msgstr "Selecciona una página de destino para el enlace del botón de acción."
+
+#: admin/main/options.php:1351 admin/main/options.php:1445
+#: admin/main/options.php:1539
+msgid "Link to a page"
+msgstr "Enlace a una página"
+
+#: admin/main/options.php:1143
+msgid "Specify whether the action button should link to a page on your site, out to external webpage or disable the link altogether."
+msgstr "Especifica si el botón de acción debe enlazar a una página de tu sitio, a una web externa o desactivar el enlace por completo."
+
+#: admin/main/options.php:1119
+msgid "Input text to display on the action button."
+msgstr "Introduce el texto que se mostrará en el botón de acción."
+
+#: admin/main/options.php:1118
+msgid "Button - Text"
+msgstr "Botón - Texto"
+
+#: admin/main/options.php:1095
+msgid "Enter a <strong>teaser</strong> message.<br /><br />Use this to provide more details about what you offer."
+msgstr "Introduce un mensaje message <strong>teaser</strong>.<br /><br />Usa esto para proporcionar más detalles sobre lo que ofreces."
+
+#: admin/main/options.php:1072
+msgid "Enter a <strong>title</strong> message.<br /><br />This will be one of the first messages your visitors see. Use this to get their attention."
+msgstr "Introduzca un mensaje de <strong>título</strong>.<br /><br />Este será uno de los primeros mensajes que vean tus visitantes. Usa esto para llamar su atención."
+
+#: admin/main/options.php:1049
+msgid "Check to enable intro on home page."
+msgstr "Márcalo para activar la introducción en la página de inicio."
+
+#: admin/main/options.php:1048
+msgid "Message"
+msgstr "Mensaje"
+
+#: admin/main/options.php:1000
+msgid "Specify the maximum slider height (px)."
+msgstr "Especifica la altura máxima del carrusel (px)."
+
+#: admin/main/options.php:999
+msgid "Slider Height (Max)"
+msgstr "Altura de la carrusel (máx.)"
+
+#: admin/main/options.php:971
+msgid "Switch on to enable full-width slider."
+msgstr "Actívalo para activar el carrusel de ancho completo."
+
+#: admin/main/options.php:970
+msgid "Enable Full-Width Slider"
+msgstr "Activar el carrusel de ancho completo"
+
+#: admin/main/options.php:573
+msgid "Switch on to enable home page slider."
+msgstr "Activa esta opción para activar el carrusel de la página de inicio."
+
+#: admin/main/options.php:523 admin/main/options.php:2693
+msgid "Choose a sidebar to use with the layout."
+msgstr "Elige una barra lateral para usar con el diseño."
+
+#: admin/main/options.php:268
+msgid "Select page layout. This will only be applied to published Pages."
+msgstr "Selecciona el diseño de la página. Esto sólo se aplicará a las páginas publicadas."
+
+#: admin/main-toolbox/toolbox.php:142 admin/main/options.php:492
+msgid "Homepage Layout"
+msgstr "Diseño de la página de inicio"
+
+#: admin/main-toolbox/toolbox.php:141 admin/main-toolbox/toolbox.php:153
+#: admin/main-toolbox/toolbox.php:165 admin/main-toolbox/toolbox.php:177
+#: admin/main/options.php:98
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: admin/main/options.php:382
+msgid "Breadcrumb Delimiter"
+msgstr "Delimitador Breadcrumb"
+
+#: admin/main/options.php:354
+msgid "Switch on to enable breadcrumbs."
+msgstr "Actívalo para activar las migas de pan."
+
+#: admin/main-toolbox/toolbox.php:130 admin/main/options.php:353
+msgid "Enable Breadcrumbs"
+msgstr "Activar Migas de Pan"
+
+#: admin/main-toolbox/toolbox.php:118 admin/main/options.php:323
+msgid "Enable Fixed Layout"
+msgstr "Activar el diseño fijo"
+
+#: admin/main/options.php:298
+msgid "Choose a sidebar to use with the page layout."
+msgstr "Elige una barra lateral para usar con el diseño de la página."
+
+#: admin/main/options.php:297 admin/main/options.php:522
+#: admin/main/options.php:2583 admin/main/options.php:2692
+msgid "Select a Sidebar"
+msgstr "Selecciona una barra lateral"
+
+#: admin/main-toolbox/toolbox.php:106 admin/main/options.php:267
+msgid "Page Layout"
+msgstr "Diseño de página"
+
+#: admin/main/options.php:190
+msgid "Logo Settings"
+msgstr "Configuración del logo"
+
+#: admin/main-toolbox/toolbox.php:105 admin/main-toolbox/toolbox.php:117
+#: admin/main-toolbox/toolbox.php:129 admin/main/options.php:88
+msgid "General Settings"
+msgstr "Opciones generales"
+
+#: admin/main/options.php:78
+msgid "Theme Options"
+msgstr "Tema con opciones"
+
+#: 404.php:15
+msgid "Please try using the search function."
+msgstr "Por favor, inténtelo utilizando la función de búsqueda."
+
+#: 404.php:13
+msgid "Sorry, we could not find the page you are looking for."
+msgstr "Lo sentimos, no hemos podido encontrar la página que está buscando."
+
+#: admin/main/options/05.blog.php:340
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está en espera para ser aprobado."
+
+#: admin/main/options/05.blog.php:325 admin/main/options/05.blog.php:350
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/main/options/05.blog.php:325
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: admin/main/options/05.blog.php:237
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas hechas por %s"
+
+#: admin/main/options/05.blog.php:235
+msgid "<span class=\"author\"><i class=\"fa fa-pencil\"></i>By <a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author\"><i class=\"fa fa-pencil\"></i>Por <a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: admin/main/options/05.blog.php:213 admin/main/options/05.blog.php:224
+msgid ", "
+msgstr ", "
+
+#: admin/main/options/05.blog.php:205
+msgid "% comments"
+msgstr "% Comentarios"
+
+#: admin/main/options/05.blog.php:205
+msgid "1 comment"
+msgstr "1 Comentario"
+
+#: admin/main/options/05.blog.php:205
+msgid "0 comments"
+msgstr "Sin comentarios"
+
+#: admin/main/options/05.blog.php:191
+msgid "<span class=\"date\"><i class=\"fa fa-calendar-o\"></i><a href=\"%1$s\" title=\"%2$s\"><time datetime=\"%3$s\">%4$s</time></a></span>"
+msgstr "<span class=\"date\"><i class=\"fa fa-calendar-o\"></i><a href=\"%1$s\" title=\"%2$s\"><time datetime=\"%3$s\">%4$s</time></a></span>"
+
+#: admin/main/options/05.blog.php:183
+msgid "Sticky"
+msgstr "Destacada"
+
+#: admin/main/options/05.blog.php:103 content.php:14
+msgid "Permalink to %s"
+msgstr "Enlace permanente a %s"
+
+#: admin/main/options/04.footer.php:83
+msgid "Remove this message by adding widgets to Footer Widget Area 6."
+msgstr "Elimina este mensaje agregando widgets al área 6 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:70
+msgid "Remove this message by adding widgets to Footer Widget Area 5."
+msgstr "Elimina este mensaje agregando widgets al área 5 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:57
+msgid "Remove this message by adding widgets to Footer Widget Area 4."
+msgstr "Elimina este mensaje agregando widgets al área 4 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:44
+msgid "Remove this message by adding widgets to Footer Widget Area 3."
+msgstr "Elimina este mensaje agregando widgets al área 3 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:31
+msgid "Remove this message by adding widgets to Footer Widget Area 2."
+msgstr "Elimina este mensaje agregando widgets al área 2 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:19 admin/main/options/04.footer.php:32
+#: admin/main/options/04.footer.php:45 admin/main/options/04.footer.php:58
+#: admin/main/options/04.footer.php:71 admin/main/options/04.footer.php:84
+#: sidebar.php:19
+msgid "Click here to go to Widget area."
+msgstr "Haz clic aquí para ir al área de widgets."
+
+#: admin/main/options/04.footer.php:18
+msgid "Remove this message by adding widgets to Footer Widget Area 1."
+msgstr "Elimina este mensaje agregando widgets al área 1 de widgets de pie de página."
+
+#: admin/main/options/04.footer.php:16 admin/main/options/04.footer.php:29
+#: admin/main/options/04.footer.php:42 admin/main/options/04.footer.php:55
+#: admin/main/options/04.footer.php:68 admin/main/options/04.footer.php:81
+#: sidebar.php:16
+msgid "Please Add Widgets"
+msgstr "Por favor, agrega widgets"
+
+#: admin/main-toolbox/toolbox.php:261 admin/main-toolbox/toolbox.php:273
+#: admin/main-toolbox/toolbox.php:286 admin/main-toolbox/toolbox.php:298
+#: admin/main/options.php:148 admin/main/options/00.theme-setup.php:70
+#: admin/main/options/00.theme-setup.php:188
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/main/options/00.theme-setup.php:64
+msgid "Yearly Archives: %s"
+msgstr "Archivo anual: %s"
+
+#: admin/main/options/00.theme-setup.php:62
+msgid "Monthly Archives: %s"
+msgstr "Archivo mensual: %s"
+
+#: admin/main/options/00.theme-setup.php:60
+msgid "Daily Archives: %s"
+msgstr "Archivo diario: %s"
+
+#: admin/main/options/00.theme-setup.php:57
+msgid "Author Archives: %s"
+msgstr "Archivos por autor: %s"
+
+#: admin/main/options/00.theme-setup.php:54
+msgid "Tag Archives: %s"
+msgstr "Archivo de la etiqueta: %s"
+
+#: admin/main/options/00.theme-setup.php:52
+msgid "Category Archives: %s"
+msgstr "Archivo de la categoría: %s"
+
+#: admin/main/options/00.theme-setup.php:50
+msgid "Page Not Found"
+msgstr "P&aacute;gina no encontrada"
+
+#: admin/main/options/00.theme-setup.php:48
+msgid "Search Results: %s"
+msgstr "Resultados de buscar: %s"
+
+#: admin/main/options/00.theme-setup.php:44
+msgid "Blog Post Image: %s"
+msgstr "Imagen de entrada de blog: %s"
+
+#. Translators: Translate this to 'off' if there are characters in your
+#. language that are not supported by Open Sans
+#: admin/main/options/00.theme-setup.php:323
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "Encendido"
+
+#: admin/main/options/02.homepage.php:153
+#: admin/main/options/02.homepage.php:318
+#: admin/main/options/02.homepage.php:334
+#: admin/main/options/02.homepage.php:350 admin/main/options/05.blog.php:248
+msgid "Read More"
+msgstr "Leer más"
+
+#: lib/functions/template-tags.php:67
+msgid "Next"
+msgstr "Siguiente"
+
+#: admin/main/options/00.theme-setup.php:182
+msgid "Error 404 - Not Found."
+msgstr "Error 404 - No encontrado."
+
+#: admin/main/options/00.theme-setup.php:180
+msgid "Archived Article(s) by Author: "
+msgstr "Artículos archivados por autor: "
+
+#: admin/main/options/00.theme-setup.php:165
+msgid "Search Results for: "
+msgstr "Resultados de buscar: "
+
+#: admin/main/options/00.theme-setup.php:156
+msgid "Posts Tagged: "
+msgstr "Entradas con la etiqueta "
+
+#: admin/main/options/00.theme-setup.php:154
+msgid "Archive Category: "
+msgstr "Categoría de archivo: "
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.thinkupthemes.com"
+msgstr "https://www.thinkupthemes.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThinkUpThemes"
+msgstr "ThinkUpThemes"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.thinkupthemes.com/free/minamaze-free/"
+msgstr "https://www.thinkupthemes.com/free/minamaze-free/"
